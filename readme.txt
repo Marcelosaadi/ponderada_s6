@@ -1,0 +1,1 @@
+não sabia como colocar as FKs no brmodelo (nem se precisa)
